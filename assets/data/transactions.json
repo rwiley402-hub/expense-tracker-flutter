@@ -1,0 +1,665 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "description": "Fictional demo transactions for July-September 2026",
+  "transactions": [
+    {
+      "id": "seed-001",
+      "title": "Rent - Maple Court Apt 4B",
+      "amount": 1650.0,
+      "type": "expense",
+      "categoryId": "housing",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "seed-002",
+      "title": "Salary - Brightline Labs",
+      "amount": 4850.0,
+      "type": "income",
+      "categoryId": "salary",
+      "date": "2026-07-01",
+      "note": "Monthly net pay"
+    },
+    {
+      "id": "seed-003",
+      "title": "Gym membership",
+      "amount": 39.0,
+      "type": "expense",
+      "categoryId": "health",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "seed-004",
+      "title": "Farmers' Market",
+      "amount": 68.29,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "seed-005",
+      "title": "Metro card top-up",
+      "amount": 40.0,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "seed-006",
+      "title": "Streamly subscription",
+      "amount": 15.99,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "seed-007",
+      "title": "City Power & Light",
+      "amount": 79.25,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "seed-008",
+      "title": "Burger Barn",
+      "amount": 9.38,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "seed-009",
+      "title": "TechHub accessories",
+      "amount": 50.98,
+      "type": "expense",
+      "categoryId": "shopping",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "seed-010",
+      "title": "FiberNet internet",
+      "amount": 64.99,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "seed-011",
+      "title": "RideNow trip",
+      "amount": 23.71,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "seed-012",
+      "title": "Mobile plan - Orbit",
+      "amount": 45.0,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "seed-013",
+      "title": "Burger Barn",
+      "amount": 18.42,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "seed-014",
+      "title": "Freelance - logo design",
+      "amount": 350,
+      "type": "income",
+      "categoryId": "freelance",
+      "date": "2026-07-15",
+      "note": "Invoice paid"
+    },
+    {
+      "id": "seed-015",
+      "title": "Pharmacy - CarePlus",
+      "amount": 32.1,
+      "type": "expense",
+      "categoryId": "health",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "seed-016",
+      "title": "Cinema tickets",
+      "amount": 33.73,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "seed-017",
+      "title": "Green Basket Market",
+      "amount": 40.06,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "seed-018",
+      "title": "Taco Fiesta",
+      "amount": 29.07,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "seed-019",
+      "title": "FreshWay Grocery",
+      "amount": 75.46,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "seed-020",
+      "title": "Green Basket Market",
+      "amount": 80.27,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "seed-021",
+      "title": "RideNow trip",
+      "amount": 23.11,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "seed-022",
+      "title": "Bean There Café",
+      "amount": 21.7,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "seed-023",
+      "title": "Northwind Outfitters",
+      "amount": 48.44,
+      "type": "expense",
+      "categoryId": "shopping",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "seed-024",
+      "title": "Bowling night",
+      "amount": 28.95,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "seed-025",
+      "title": "Farmers' Market",
+      "amount": 68.08,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "seed-026",
+      "title": "Rent - Maple Court Apt 4B",
+      "amount": 1650.0,
+      "type": "expense",
+      "categoryId": "housing",
+      "date": "2026-08-01"
+    },
+    {
+      "id": "seed-027",
+      "title": "Salary - Brightline Labs",
+      "amount": 4850.0,
+      "type": "income",
+      "categoryId": "salary",
+      "date": "2026-08-01",
+      "note": "Monthly net pay"
+    },
+    {
+      "id": "seed-028",
+      "title": "Burger Barn",
+      "amount": 10.89,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-08-02"
+    },
+    {
+      "id": "seed-029",
+      "title": "Gym membership",
+      "amount": 39.0,
+      "type": "expense",
+      "categoryId": "health",
+      "date": "2026-08-02"
+    },
+    {
+      "id": "seed-030",
+      "title": "Northwind Outfitters",
+      "amount": 109.58,
+      "type": "expense",
+      "categoryId": "shopping",
+      "date": "2026-08-03"
+    },
+    {
+      "id": "seed-031",
+      "title": "Streamly subscription",
+      "amount": 15.99,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "seed-032",
+      "title": "City Power & Light",
+      "amount": 120.77,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-08-05"
+    },
+    {
+      "id": "seed-033",
+      "title": "Pizzeria Napoli",
+      "amount": 32.67,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-08-08"
+    },
+    {
+      "id": "seed-034",
+      "title": "FiberNet internet",
+      "amount": 64.99,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-08-10"
+    },
+    {
+      "id": "seed-035",
+      "title": "Green Basket Market",
+      "amount": 84.39,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-08-10"
+    },
+    {
+      "id": "seed-036",
+      "title": "Luna Ramen House",
+      "amount": 21.45,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "seed-037",
+      "title": "Freelance - logo design",
+      "amount": 420,
+      "type": "income",
+      "categoryId": "freelance",
+      "date": "2026-08-13",
+      "note": "Invoice paid"
+    },
+    {
+      "id": "seed-038",
+      "title": "Fuel - Shell",
+      "amount": 44.36,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "seed-039",
+      "title": "Mobile plan - Orbit",
+      "amount": 45.0,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "seed-040",
+      "title": "Freelance - logo design",
+      "amount": 600,
+      "type": "income",
+      "categoryId": "freelance",
+      "date": "2026-08-16",
+      "note": "Invoice paid"
+    },
+    {
+      "id": "seed-041",
+      "title": "Bowling night",
+      "amount": 32.34,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-08-18"
+    },
+    {
+      "id": "seed-042",
+      "title": "Dentist co-pay",
+      "amount": 60.0,
+      "type": "expense",
+      "categoryId": "health",
+      "date": "2026-08-19",
+      "note": "Annual check-up"
+    },
+    {
+      "id": "seed-043",
+      "title": "Fuel - Shell",
+      "amount": 55.88,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "seed-044",
+      "title": "FreshWay Grocery",
+      "amount": 77.94,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-08-22"
+    },
+    {
+      "id": "seed-045",
+      "title": "Concert - The Lanterns",
+      "amount": 75.19,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-08-23"
+    },
+    {
+      "id": "seed-046",
+      "title": "FreshWay Grocery",
+      "amount": 46.05,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-08-23"
+    },
+    {
+      "id": "seed-047",
+      "title": "Weekend trip - lake cabin",
+      "amount": 210.0,
+      "type": "expense",
+      "categoryId": "other",
+      "date": "2026-08-23",
+      "note": "Split with friends"
+    },
+    {
+      "id": "seed-048",
+      "title": "Harvest Foods",
+      "amount": 55.22,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "seed-049",
+      "title": "HomeGoods Depot",
+      "amount": 67.65,
+      "type": "expense",
+      "categoryId": "shopping",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "seed-050",
+      "title": "The Daily Grind",
+      "amount": 60.71,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "seed-051",
+      "title": "Pizzeria Napoli",
+      "amount": 21.54,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "seed-052",
+      "title": "Taco Fiesta",
+      "amount": 32.34,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-08-29"
+    },
+    {
+      "id": "seed-053",
+      "title": "RideNow trip",
+      "amount": 22.21,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-08-30"
+    },
+    {
+      "id": "seed-054",
+      "title": "Farmers' Market",
+      "amount": 50.89,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-08-31"
+    },
+    {
+      "id": "seed-055",
+      "title": "Rent - Maple Court Apt 4B",
+      "amount": 1650.0,
+      "type": "expense",
+      "categoryId": "housing",
+      "date": "2026-09-01"
+    },
+    {
+      "id": "seed-056",
+      "title": "Salary - Brightline Labs",
+      "amount": 4850.0,
+      "type": "income",
+      "categoryId": "salary",
+      "date": "2026-09-01",
+      "note": "Monthly net pay"
+    },
+    {
+      "id": "seed-057",
+      "title": "Gym membership",
+      "amount": 39.0,
+      "type": "expense",
+      "categoryId": "health",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "seed-058",
+      "title": "Streamly subscription",
+      "amount": 15.99,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "seed-059",
+      "title": "Corner Organics",
+      "amount": 98.1,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "seed-060",
+      "title": "Luna Ramen House",
+      "amount": 60.36,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-09-06"
+    },
+    {
+      "id": "seed-061",
+      "title": "Metro card top-up",
+      "amount": 40.0,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-09-06"
+    },
+    {
+      "id": "seed-062",
+      "title": "City Power & Light",
+      "amount": 107.82,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "seed-063",
+      "title": "FiberNet internet",
+      "amount": 64.99,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "seed-064",
+      "title": "Birthday gift for Sam",
+      "amount": 55.0,
+      "type": "expense",
+      "categoryId": "other",
+      "date": "2026-09-12"
+    },
+    {
+      "id": "seed-065",
+      "title": "Concert - The Lanterns",
+      "amount": 66.16,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "seed-066",
+      "title": "Mobile plan - Orbit",
+      "amount": 45.0,
+      "type": "expense",
+      "categoryId": "utilities",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "seed-067",
+      "title": "Northwind Outfitters",
+      "amount": 118.35,
+      "type": "expense",
+      "categoryId": "shopping",
+      "date": "2026-09-16"
+    },
+    {
+      "id": "seed-068",
+      "title": "Pizzeria Napoli",
+      "amount": 58.66,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "seed-069",
+      "title": "Parking downtown",
+      "amount": 8.19,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-09-18"
+    },
+    {
+      "id": "seed-070",
+      "title": "Corner Organics",
+      "amount": 41.59,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "seed-071",
+      "title": "Freelance - web audit",
+      "amount": 350,
+      "type": "income",
+      "categoryId": "freelance",
+      "date": "2026-09-22",
+      "note": "Invoice paid"
+    },
+    {
+      "id": "seed-072",
+      "title": "Harvest Foods",
+      "amount": 45.6,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "seed-073",
+      "title": "Green Basket Market",
+      "amount": 114.03,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "seed-074",
+      "title": "Pharmacy - CarePlus",
+      "amount": 36.62,
+      "type": "expense",
+      "categoryId": "health",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "seed-075",
+      "title": "RideNow trip",
+      "amount": 24.18,
+      "type": "expense",
+      "categoryId": "transport",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "seed-076",
+      "title": "The Daily Grind",
+      "amount": 44.93,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "seed-077",
+      "title": "HomeGoods Depot",
+      "amount": 37.7,
+      "type": "expense",
+      "categoryId": "shopping",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "seed-078",
+      "title": "Sold old bike",
+      "amount": 140.0,
+      "type": "income",
+      "categoryId": "other_income",
+      "date": "2026-09-27",
+      "note": "Marketplace sale"
+    },
+    {
+      "id": "seed-079",
+      "title": "Bean There Café",
+      "amount": 31.06,
+      "type": "expense",
+      "categoryId": "dining",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "seed-080",
+      "title": "Cinema tickets",
+      "amount": 24.86,
+      "type": "expense",
+      "categoryId": "entertainment",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "seed-081",
+      "title": "Corner Organics",
+      "amount": 115.58,
+      "type": "expense",
+      "categoryId": "groceries",
+      "date": "2026-09-30"
+    }
+  ]
+}
